@@ -21,7 +21,7 @@ geolocate_api = 'https://www.googleapis.com/geolocation/v1/geolocate'
 # There are more, these for now
 
 # PUT YOUR OWN API KEY IN HERE
-API_KEY="AIzaSyBA9E7C-41rLSi60prwtGmbT_MIpY4dTz0"
+API_KEY="PUTINYOUROWNAPIKEYHERE"
 #to find out what params to bind i recommend reading the google documentation
 # here: https://developers.google.com/maps/documentation/
 
